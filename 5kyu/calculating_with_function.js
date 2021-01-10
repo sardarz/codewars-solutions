@@ -44,7 +44,7 @@ function minus(y) {
 }
 
 function zero(operation) {
-    return helper(1, operation);
+    return helper(0, operation);
 }
 
 function one(operation) {
@@ -52,34 +52,34 @@ function one(operation) {
 }
 
 function two(operation) {
-    return helper(1, operation);
+    return helper(2, operation);
 }
 
 function three(operation) {
-    return helper(1, operation);
+    return helper(3, operation);
 }
 
 function four(operation) {
-    return helper(1, operation);
+    return helper(4, operation);
 }
 
 function five(operation) {
-    return helper(1, operation);
+    return helper(5, operation);
 }
 
 function six(operation) {
-    return helper(1, operation);
+    return helper(6, operation);
 }
 
 function seven(operation) {
-    return helper(1, operation);
+    return helper(7, operation);
 }
 
 function eight(operation) {
-    return helper(1, operation);
+    return helper(8, operation);
 }
 
 function nine(operation) {
-    return helper(1, operation);
+    return helper(9, operation);
 }
 
